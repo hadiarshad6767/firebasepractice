@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593634990989",
+    "project_id": "dummy-de26b",
+    "storage_bucket": "dummy-de26b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593634990989:android:c2a6185ca1c691b4283bc4",
+        "android_client_info": {
+          "package_name": "com.example.firebasepractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593634990989-phis4qrppo0ag0p1hi9cv62cdvil3185.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSYwyHC378qQi7BnCtKvbt0Dws9tEwTPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593634990989-phis4qrppo0ag0p1hi9cv62cdvil3185.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
